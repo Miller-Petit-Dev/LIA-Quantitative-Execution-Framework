@@ -27,7 +27,7 @@ Este proyecto no fue desarrollado de forma tradicional. Se utilizó un flujo de 
 LIA es el brazo ejecutor. Para ver la infraestructura de datos que alimenta estos sistemas, visita **Nexus AI**:
 
 <p align="center">
-  <a href="https://github.com/miller-petit-dev/Nexus-AI-Data-Pipeline-insights">
+  <a href="https://github.com/miller-petit-dev/Nexus-AI-Financial-Data-Pipeline-insights">
     <img src="https://img.shields.io/badge/Ver_Siguiente_Proyecto-NEXUS_AI-0078D4?style=for-the-badge&logo=target&logoColor=white" alt="Nexus AI Project">
   </a>
   &nbsp;&nbsp;
