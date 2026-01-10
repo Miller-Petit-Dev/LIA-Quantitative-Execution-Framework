@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="LIA Banner.png" alt="LIA: Quantitative Execution Framework" width="100%">
-</p>
+![Banner](./Lia Banner.png)
 
-# LIA: Quantitative Execution Framework 🚀
 
 **LIA** (Logic & Intelligent Analysis) es un ecosistema autónomo de trading algorítmico diseñado para operar en **MetaTrader 5**. Este framework integra análisis cuantitativo, ejecución de baja latencia y un sistema de monitoreo en tiempo real.
 
