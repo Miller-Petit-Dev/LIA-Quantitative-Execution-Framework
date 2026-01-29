@@ -1,0 +1,13 @@
+# ============================================================================
+# LIA ENGINEERING SOLUTIONS - TRADING FRAMEWORK
+# Dependencias de Python
+# ============================================================================
+
+# Core dependencies
+python-dotenv==1.0.0        # Manejo de variables de entorno
+pydantic==2.5.2             # Validación de datos y modelos
+pandas==2.0.3               # Análisis y manipulación de datos
+MetaTrader5==5.0.45         # Conexión con MetaTrader 5
+
+# Optional dependencies
+python-telegram-bot==20.8   # Notificaciones por Telegram (opcional)
