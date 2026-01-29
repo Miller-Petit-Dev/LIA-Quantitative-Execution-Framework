@@ -1,3 +1,5 @@
+![Banner](./LIABanner.png)
+
 # 🚀 LIA Engineering Solutions - Trading Framework
 
 **Framework Profesional de Trading Algorítmico Event-Driven para MetaTrader 5**
