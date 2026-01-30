@@ -371,12 +371,16 @@ Permitido para uso educativo y de investigación.
 
 *LIA Engineering Solutions - Acelerando decisiones, diseño y ejecución.*
 
+---
+
+## 🔗 Navegación
+
 <p align="center">
-  <a href="https://github.com/miller-petit-dev/Nexus-Ai-Financial-Data-Pipeline-Insigths">
-    <img src="https://img.shields.io/badge/Ver_Proyecto_Ejecutor-Nexus_AI-0078D4?style=for-the-badge&logo=rocket&logoColor=white" alt="Nexus AI Project">
+  <a href="https://github.com/miller-petit-dev/Nexus-AI-Financial-Data-Pipeline-Insights">
+    <img src="https://img.shields.io/badge/Ir_a_Nexus-NEXUS_AI-6A0DAD?style=for-the-badge&logo=databricks&logoColor=white" alt="Ir a Nexus">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/miller-petit-dev/miller-petit-dev">
-    <img src="https://img.shields.io/badge/Volver_al_Portfolio-Home-333333?style=for-the-badge&logo=github&logoColor=white" alt="Regresar al Inicio">
+  <a href="https://github.com/Miller-Petit-Dev">
+    <img src="https://img.shields.io/badge/Volver_al_Home-Portfolio-333333?style=for-the-badge&logo=github&logoColor=white" alt="Volver al Home">
   </a>
 </p>
