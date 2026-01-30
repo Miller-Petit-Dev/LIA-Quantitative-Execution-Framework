@@ -372,7 +372,7 @@ Permitido para uso educativo y de investigación.
 *LIA Engineering Solutions - Acelerando decisiones, diseño y ejecución.*
 
 <p align="center">
-  <a href="https://github.com/miller-petit-dev/LIA-Quantitative-Execution-Framework">
+  <a href="https://github.com/miller-petit-dev/Nexus-Ai-Financial-Data-Pipeline-Insigths">
     <img src="https://img.shields.io/badge/Ver_Proyecto_Ejecutor-Nexus AI-0078D4?style=for-the-badge&logo=rocket&logoColor=white" alt="Nexus AI Project">
   </a>
   &nbsp;&nbsp;
