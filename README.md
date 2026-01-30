@@ -373,7 +373,7 @@ Permitido para uso educativo y de investigación.
 
 <p align="center">
   <a href="https://github.com/miller-petit-dev/Nexus-Ai-Financial-Data-Pipeline-Insigths">
-    <img src="https://img.shields.io/badge/Ver_Proyecto_Ejecutor-Nexus AI-0078D4?style=for-the-badge&logo=rocket&logoColor=white" alt="Nexus AI Project">
+    <img src="https://img.shields.io/badge/Ver_Proyecto_Ejecutor-Nexus_AI-0078D4?style=for-the-badge&logo=rocket&logoColor=white" alt="Nexus AI Project">
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/miller-petit-dev/miller-petit-dev">
