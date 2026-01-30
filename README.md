@@ -377,7 +377,7 @@ Permitido para uso educativo y de investigación.
 
 <p align="center">
   <a href="https://github.com/miller-petit-dev/Nexus-AI-Financial-Data-Pipeline-Insights">
-    <img src="https://img.shields.io/badge/Ir_a_Nexus-NEXUS_AI-6A0DAD?style=for-the-badge&logo=databricks&logoColor=white" alt="Ir a Nexus">
+    <img src="https://img.shields.io/badge/Ir_a_Nexus-NEXUS_AI-0078D4?style=for-the-badge&logo=databricks&logoColor=white" alt="Ir a Nexus">
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Miller-Petit-Dev">
