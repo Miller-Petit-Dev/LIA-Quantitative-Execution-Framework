@@ -370,3 +370,13 @@ Permitido para uso educativo y de investigación.
 **Desarrollado con criterio de ingeniería, pensado para operar.**
 
 *LIA Engineering Solutions - Acelerando decisiones, diseño y ejecución.*
+
+<p align="center">
+  <a href="https://github.com/miller-petit-dev/LIA-Quantitative-Execution-Framework">
+    <img src="https://img.shields.io/badge/Ver_Proyecto_Ejecutor-Nexus AI-0078D4?style=for-the-badge&logo=rocket&logoColor=white" alt="Nexus AI Project">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/miller-petit-dev/miller-petit-dev">
+    <img src="https://img.shields.io/badge/Volver_al_Portfolio-Home-333333?style=for-the-badge&logo=github&logoColor=white" alt="Regresar al Inicio">
+  </a>
+</p>
